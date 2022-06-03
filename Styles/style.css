@@ -256,3 +256,21 @@ body {
 
 
 /* End Of Portfolio */
+
+.About .main-title>div {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .About .main-title>div {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .About .main-title>div {
+        width: 90%;
+    }
+}
