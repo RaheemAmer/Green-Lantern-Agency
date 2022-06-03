@@ -7,12 +7,20 @@
     --section-color: #eff7fa;
 }
 
+* {
+    transition: all 0.6s ease-in-out !important;
+}
+
 .--bg-color {
     background-color: var(--bg-color);
 }
 
 .green-color {
     color: var(--green-color);
+}
+
+.bg-green {
+    background-color: var(--green-color);
 }
 
 body {
@@ -100,12 +108,6 @@ body {
     height: 50px;
 }
 
-.navbar-brand .logo:hover {
-    transform: scale(1.1);
-    transition: transform 0.6s;
-    will-change: transform;
-}
-
 .navbar .navbar-nav .nav-link {
     color: rgb(226, 219, 219);
     margin: 0px 4px;
@@ -116,7 +118,6 @@ body {
 .navbar .navbar-nav .nav-link:hover {
     color: var(--green-color);
     box-shadow: #33d1cc 0px 0px 5px;
-    transition: all 0.5s ease-in-out;
 }
 
 .navbar .search {
@@ -208,11 +209,6 @@ body {
 
 
 /* Portfolio */
-
-.Portfolio {
-    height: 100vh;
-    color: white;
-}
 
 .Portfolio .container-fluid {
     background-color: var(--bg-color);
