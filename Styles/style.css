@@ -257,6 +257,9 @@ body {
 
 /* End Of Portfolio */
 
+
+/* About */
+
 .About .main-title>div {
     text-align: center;
     width: 50%;
@@ -274,3 +277,23 @@ body {
         width: 90%;
     }
 }
+
+.image {
+    width: fit-content;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center;
+}
+
+.about-text {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+/* End Of About */
