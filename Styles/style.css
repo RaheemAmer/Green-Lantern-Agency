@@ -93,6 +93,18 @@
         background-color: var(--green-color);
         color: white;
     }
+    
+    img {
+        opacity: 0.9 !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+    
+    img:hover {
+        opacity: 1 !important;
+        transform: scale(1.1) !important;
+        transition: transform 0.8s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
+    }
     /* End Of Global */
     /* Navbar */
     
@@ -268,11 +280,19 @@
     }
     /* End Of About */
     
-    .cards {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 10px;
-        border: 2px solid red;
-        text-align: center;
+    .card {
+        margin-bottom: 20px;
+    }
+    
+    .card img {
+        box-shadow: 0px 0px 5px #33d1cc !important;
+        opacity: 0.9 !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+    
+    .card img:hover {
+        opacity: 1 !important;
+        transform: scale(1.1) !important;
+        transition: all 0.8s cubic-bezier(0.25, 0.8, 0.25, 1) !important;
     }
