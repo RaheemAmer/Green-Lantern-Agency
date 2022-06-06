@@ -11,11 +11,13 @@
 
 ### Desktop view
 
-<img align="center" alt="Snapshot of whole website" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/landing%20page.png">
+![Snapshot of whole website](https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/Green%20Lantern%20Agency%20Website.png?raw=true)
 
 
 ### Fully responsive
 
-<img align="center" alt="Team section mobile view" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Assets/Snapshots/team%20page.png?raw=true">
+![Snapshot of landing page - mobile view](https://raw.githubusercontent.com/RaheemAmer/Green-Lantern-Agency/main/Screenshots/landing%20page.png)
+
+![Team section - mobile view](https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/team%20page.png?raw=true)
 
 
