@@ -16,7 +16,7 @@
 
 ### Fully responsive
 
-![Snapshot of landing page - mobile view](https://raw.githubusercontent.com/RaheemAmer/Green-Lantern-Agency/main/Screenshots/landing%20page.png)
+![Snapshot of landing page - mobile view](https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/Mobile%20view%20landing%20page.png?raw=true)
 
 ![Team section - mobile view](https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/team%20page.png?raw=true)
 
