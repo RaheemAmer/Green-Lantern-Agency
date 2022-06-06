@@ -7,12 +7,15 @@
 - CSS, Bootstrap
 - Javascript, Jquery
 
-## Preview
+## Preview of website
+
+### Desktop view
+
 <img align="center" alt="Snapshot of whole website" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Assets/Snapshots/Green%20Lantern%20Agency%20Website.png">
 
-<hr>
 
 ### Fully responsive
-<img align="center" alt="Team section mobile view" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Assets/Snapshots/team%20page.png">
+
+<img align="center" alt="Team section mobile view" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Assets/Snapshots/team%20page.png?raw=true">
 
 
