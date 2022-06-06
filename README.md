@@ -11,7 +11,7 @@
 
 ### Desktop view
 
-<img align="center" alt="Snapshot of whole website" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Assets/Snapshots/Green%20Lantern%20Agency%20Website.png">
+<img align="center" alt="Snapshot of whole website" href="https://github.com/RaheemAmer/Green-Lantern-Agency/blob/main/Screenshots/landing%20page.png">
 
 
 ### Fully responsive
